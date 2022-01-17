@@ -1,0 +1,3 @@
+Run the mailer reminders from a local machine
+MailGun is getting flagged as spam
+.env file needed for PW and MONGO_URI_PROD
